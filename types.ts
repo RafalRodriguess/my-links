@@ -13,8 +13,3 @@ export interface LinkItem {
   color: string;
   size: 'small' | 'medium' | 'large';
 }
-
-export interface ChatMessage {
-  role: 'user' | 'assistant';
-  content: string;
-}

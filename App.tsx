@@ -23,7 +23,7 @@ const App: React.FC = () => {
         <div 
           className="absolute w-[100vw] h-[90vh] rounded-full blur-[140px] opacity-[0.2] animate-orbit-2"
           style={{ 
-            background: 'radial-gradient(circle, #1a6e50 0%, transparent 60%)',
+            background: 'radial-gradient(circle,rgb(108, 198, 166) 0%, transparent 60%)',
             bottom: '-10%',
             right: '-20%' 
           }}
