@@ -47,6 +47,3 @@ npm run build
 - **Vite** - Build tool and dev server
 - **Tailwind CSS** - Styling
 
-## 📝 License
-
-This project is private and personal.
