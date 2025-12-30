@@ -2,7 +2,7 @@
 
 A modern and minimalist link-in-bio page project designed to organize and showcase social media links in one centralized location.
 
-🌐 **Live Demo:** [bio.rafarodrigues.dev](https://bio.rafarodrigues.dev)
+**Live Demo:** [bio.rafarodrigues.dev](https://bio.rafarodrigues.dev)
 
 ## 📋 About
 
@@ -16,7 +16,7 @@ This project was created to organize and manage social media links in a single, 
 - Fast and lightweight
 - Easy to customize
 
-## 🚀 Getting Started
+## Getting Started
 
 **Prerequisites:** Node.js
 
@@ -40,7 +40,7 @@ To generate a production build:
 npm run build
 ```
 
-## 📦 Tech Stack
+## Tech Stack
 
 - **React 19** - UI library
 - **TypeScript** - Type safety
