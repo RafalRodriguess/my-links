@@ -103,8 +103,8 @@ const App: React.FC = () => {
       <footer className="w-full max-w-md pb-16 text-center mt-auto">
         <div className="flex flex-col items-center gap-4">
             <div className="w-12 h-[1px] bg-emerald-900/30"></div>
-            <p className="text-zinc-800 text-[10px] font-mono tracking-[0.5em] uppercase hover:text-emerald-900 transition-colors duration-500">
-              {new Date().getFullYear()} • Rafa Rodrigues • {bio.footerSuffix}
+            <p className="text-[#26966E] text-[10px] font-mono tracking-[0.5em] uppercase transition-colors duration-500">
+              {new Date().getFullYear()} - Rafa Rodrigues
             </p>
         </div>
       </footer>

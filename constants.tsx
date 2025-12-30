@@ -42,7 +42,7 @@ export const SOCIAL_LINKS: LinkItem[] = [
   {
     id: 'linkedin',
     titles: { en: 'LinkedIn', pt: 'LinkedIn' },
-    url: 'https://linkedin.com/in/rafael-rodrigues-dev',
+    url: 'https://www.linkedin.com/in/rafael-rodrigues-88a976226/',
     descriptions: { 
       en: 'Professional background and networking.', 
       pt: 'Trajetória profissional e networking.' 
@@ -55,7 +55,7 @@ export const SOCIAL_LINKS: LinkItem[] = [
   {
     id: 'instagram',
     titles: { en: 'Instagram', pt: 'Instagram' },
-    url: 'https://instagram.com/rafarodrigues.dev',
+    url: 'https://www.instagram.com/rafarodriguesdev',
     descriptions: { 
       en: 'Life, tech, and behind the scenes.', 
       pt: 'Vida, tecnologia e bastidores.' 
@@ -68,7 +68,7 @@ export const SOCIAL_LINKS: LinkItem[] = [
   {
     id: 'tiktok',
     titles: { en: 'TikTok', pt: 'TikTok' },
-    url: 'https://tiktok.com/@rafarodrigues.dev',
+    url: 'https://www.tiktok.com/@rafarodriguesdev?is_from_webapp=1&sender_device=pc',
     descriptions: { 
       en: 'Quick tech tips and daily routines.', 
       pt: 'Dicas rápidas de tecnologia e rotina.' 
